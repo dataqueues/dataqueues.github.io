@@ -1,5 +1,5 @@
 input: .
-output: docs
+output: retype
 url: https://dataqueues.github.io
 branding:
   title: DataQueues
